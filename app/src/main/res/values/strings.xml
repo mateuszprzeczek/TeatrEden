@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Teatr Eden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_top">Fragment Główny</string>
+    <string-array name="repertoire">
+        <item>Najlepszy Przyjaciel</item>
+        <item>Najpiękniejszy Prezent</item>
+        <item>Ukryte Bogactwo</item>
+        <item>Opowieść o dobrym człowieku</item>
+        <item>Arka Noego</item>
+        <item>Historia Daniela w jaskini Lwów</item>
+        <item>Jonasz i Niezwykła Ryba</item>
+        <item>Legenda o św. Mikołaju Biskupie</item>
+        <item>Odważny Pastuszek</item>
+        <item>Opowieść Wigilijna</item>
+        <item>Prawdziwy Skarb</item>
+        <item>Przypowieść o Talentach</item>
+        <item>Zagupiona Owieczka</item>
+        <item>Wizyta św. Mikołaja</item>
+    </string-array>
+    <string-array name="contact">
+        <item>Łukasz Malec</item>
+        <item>Joanna Rola</item>
+    </string-array>
+    <string name="toolbar_main">toolbar</string>
+    <string name="create_order">Złóż zamówienie</string>
+    <string name="create_order_title">Zadaj pytanie</string>
+    <string name="action_share">Udostępnij</string>
+
+    <string name="home_tab">Start</string>
+    <string name="repertoire">Repertuar</string>
+    <string name="contact">Kontakt</string>
+
+    <string name="company_name">Teatr Eden</string>
+    <string name="company_image">Zdjęcie teatru</string>
+    <string name="home_text">Teatr Eden – teatr, funkcjonujący w Wieliczce,
+        prezentuje historie biblijne dla najmłodszych, dla dzieci w wieku 3-9 lat,
+        trwające około 40 minut. Zespół stara się przygotowywać przedstawienia na najwyższym poziomie:
+        stroje – szyte na miarę, zachwycają barwnością i orientalnością;
+        muzyka – komponowana i nagrywana w studio, a także ta grana na żywo stanowi idealne uzupełnienie dialogów;
+        kurtyny – malowane ręcznie przez absolwenta krakowskiej Akademii Sztuk Pięknych
+        ułatwiają odnalezienie się w bajkowej rzeczywistości.</string>
+    <string name="contact_description">Zapraszamy do współpracy przedszkola, szkoły, domy dziecka, domy kultury, świetlice oraz klientów indywidualnych. Współpracujemy z tysiącami placówek w całej Polsce!</string>
+
+
+    <string name="nav_help">Pomoc</string>
+    <string name="nav_feedback">Opinie</string>
+    <string name="media">Multimedia</string>
+    <string name="nav_home_page">Strona Główna</string>
+
+
+    <string name="nav_open_drawer">Otwórz szufladę nawigacyjną</string>
+    <string name="nav_close_drawer">Zamknij szufladę nawigacyjną</string>
+
+    <string name="najlepszy_przyjaciel_descrtiption">Ten interaktywny spektakl Teatru Eden oparty jest na wzruszającej historii, 
+        przybliżającej postać niewidomego Tobiasza i jego syna o tym samym imieniu, 
+        pieszczotliwie nazywanego przez ojca Tobi. Widzowie, wraz z młodym chłopcem, 
+        wyruszają w pełną przygód podróż, by zdobyć pieniądze na lek, 
+        który ma przywrócić tacie wzrok. 
+        Wędrówka po górach, lasach i pustyniach jest pełna przygód i wyzwań. 
+        Na szczęście Tobi po drodze spotyka niezwykłego wędrowca, 
+        który okazuje się być jego najlepszym przyjacielem. 
+        Dzieci w trakcie przedstawienia uczą się czym jest prawdziwa przyjaźń i co zrobić, 
+        aby być najlepszym przyjacielem dla innych. 
+        Występują: Ojciec Tobiasz, Syn Tobi, Bogaty Sąsiad, Anioł Rafał,
+        Grzegorz z Persji, Małpki oraz Bóbr Czas trwania:
+        ok. 40min.</string>
+    <string name="najpiękniejszy_prezent_description">spektakl przedstawia historię małego chłopca, który nie marzył o pięknych i drogich zabawkach pod choinkę, lecz o tym, aby jego zapracowany tata poświęcił mu odrobinę czasu. marzenie piotrusia spróbują spełnić pomocnicy świętego mikołaja. kim są i czy uda im się przekonać tatę chłopca, by nie wyjeżdżał do pracy w święta? przedstawienie pełne zwrotów akcji i zabawnych dialogów przypomina widzom, że najcenniejsze co możemy ofiarować drugiemu człowiekowi to wspólnie spędzony czas, szczególnie podczas świąt bożego narodzenia. czy każdego na to stać? z pomocą aktorów dzieci odpowiedzą na to pytanie. „najpiękniejszy prezent” to pierwsze przedstawienie teatru eden stworzone według autorskiego scenariusza. występują: tata, piotruś, anioł michał wcielający się w role sprzedawcy, grajka i konduktora, renifer józek.</string>
+    <string name="ukryte_bogactwo_description">Spektakl ten jest inscenizacją historii o Józefie i jego braciach. Podczas przedstawienia widzowie poznają świat małego chłopca, który musi zmierzyć się z zazdrością starszego brata i niełatwą służbą w pałacu Faraona. „Ukryte bogactwo” to piękna opowieść o tym, co tak naprawdę jest najważniejsze w życiu. Mali widzowie przekonują się, że nie jest to złota szata, czy skarby gromadzone wokół siebie, lecz miłość, szacunek i wzajemna pomoc, a także umiejętność przebaczania. Dzieci dochodzą do wniosku, że nie warto być zazdrosnym, a największe bogactwo ukryte jest głęboko w naszych sercach i każdy może je tam odnaleźć.  Występują: Józef, Szymon, sługa Faraona, Faraon, krowa Mućka, kot Faraona, wielbłąd</string>
+    <string name="prawdziwy_skarb_description">Pełen humoru spektakl teatralny oparty na znanej wszystkim przypowieści o Synu Marnotrawnym. Młodszy syn postanawia pewnego dnia wyruszyć do miasta w poszukiwaniu przygody oraz skarbu. Spektakl wyjaśnia dzieciom, że prawdziwym skarbem jest rodzina oraz miłość, uczy posłuszeństwa wobec rodziców, tłumaczy małym widzom, że nie szata zdobi człowieka oraz wyjaśnia kim jest prawdziwy przyjaciel. Humorystyczne sceny, improwizowane dialogi aktorów z publicznością tworzą wspaniały spektakl, który na długo pozostanie w pamięci.  Występują: Ojciec, Syn Starszy, Syn Młodszy, Kupiec, Rolnik, zwierzęta z gospodarstwa domowego  Czas trwania: ok. 40min.</string>
+    <string name="samarytanin_description">Zabawna i poruszająca historia kupca, który znalazł się w potrzebie, a przechodzący obok ludzie okazali mu obojętność. Na szczęście znajduje się dobry człowiek, który wraz z dziećmi przychodzi mu z pomocą. Jest to wypełniony muzyką, interaktywny spektakl podczas którego dzieci uczą się grać na instrumentach oraz udzielają pomocy i pocieszenia głównemu bohaterowi. Razem z aktorami dzieci szukają odpowiedzi na pytanie kto to jest dobry człowiek i na czym polega bezinteresowność. Barwne kostiumy i rekwizyty oraz bogata scenografia przenoszą widzów do starożytnej Jerozolimy. Humorystyczne dialogi gwarantują pełne zaangażowanie widowni i wspaniała zabawę.  Występują: Kupiec, Rabuś, Kapłan, Lewita, Samarytanin, Gospodarz oraz Osiołek Czas trwania: ok. 40 min</string>
+    <string name="arka_noego_description">To interaktywny spektakl podczas którego aktorzy angażują dzieci do budowy statku oraz opieki nad zwierzętami. Głównym celem tego przedstawienia  jest pokazanie dzieciom na czym polegają dobre uczynki.  Aktorzy prowadzą dialogi z dziećmi w taki sposób, aby mali widzowie sami potrafili odróżnić dobre zachowanie od złego. Kolejną wartością, którą ukazuje ten spektakl jest szacunek do drugiego człowieka, dzieci uczą się, że nie można wyśmiewać się z czyjejś pracy. Nie brakuje również wielu humorystycznych wątków i odpowiednio dobranej muzyki co gwarantuje wspaniałą zabawę.  Występują: Noe, Syn Noego – Jafet, Drugi Syn Noego- Sem, mieszkaniec miasta, oraz zwierzęta w rolę których wcielają się aktorzy.  Czas trwania: ok. 40min.</string>
+    <string name="odwazny_pastuszek_desription">Jest to historia pasterza Dawida,  który dzięki swojej odwadze pomaga Królowi zapanować nad jego złym humorem. Ze spektaklu wypływa cenny morał uczący szacunku dla słabszych i mniejszych, Dzieci spostrzegają, że nie warto się gniewać, a bycie dobrym i miłym dla innych potrafi czynić cuda. Jest to przedstawienie, które angażuje widzów do współtworzenia akcji. W trakcie przedstawienia, widzowie pomagają aktorom budować zagrodę dla owieczek, śpiewają kołysankę dla lwa oraz piosenkę dla Króla  Występują: Ojciec, Dawid, Król, Służący Igor, Owieczki, Koń  Czas trwania: ok. 40min.</string>
+    <string name="daniel_w_jaskini_description">Piękna historia mądrego i posłusznego Daniela, który wskutek podstępnego działania doradcy Króla musiał ponieść niezasłużoną karę. Mali widzowie szybko dochodzą do wniosku, że warto być uczciwym i sprawiedliwym, bo kłamstwo ma krótkie nogi, a dobro zawsze zwycięża. W trakcie spektaklu publiczność zaproszona jest na ucztę do królewskiego zamku, odważni widzowie pomagają wyjść Danielowi z jaskini, po czym tańczą z nim radośnie na scenie. Umiejętności aktorów w prowadzeniu z widownią improwizowanego dialogu stwarzają pełen humoru klimat oraz wpływają na spontaniczną reakcję małego widza.  Występują: Daniel, Doradca- Magik, Król Nabuchodonozor, Król Baltazar oraz Król Dariusz  Czas trwania: ok. 40min.</string>
+    <string name="jonasz_description">To barwne przedstawienie w którym opowiadamy prostym językiem historię Jonasza – człowieka uczciwego, ale nie zawsze posłusznego. Spektakl przedstawia niezwykłe przygody bohatera - jego życie w mieście, podróż statkiem oraz przebywanie w brzuchu ryby. Adaptacja tej biblijnej historii uczy nas, że każdy może popełnić błąd - ważne jest by umieć się do niego przyznać i przeprosić. Spektaklem tym pokazujemy również jak istotne jest w życiu każdego człowieka bycie posłusznym, a także umiejętne słuchanie starszych i przebaczenie.  Występują: Jonasz, Przyjaciel Jonasza, Mieszkańcy Niniwy, Kapitan Statku, Majtek, Wielbłąd oraz gadająca Papuga  Czas trwania: ok. 40min</string>
+    <string name="talenty_description">Jest to historia Króla, który postanawia wyjechać na kilka dni z Królestwa. Na czas swojej nieobecności pozostawia złoto swoim sługom i nakazuje im je pomnożyć. Czy po powrocie będzie zadowolony z tego jak słudzy wywiązali się z powierzonego im zadania? Tym spektaklem staramy się wytłumaczyć dzieciom co to znaczy, że ktoś ma talent i dlaczego warto go rozwijać. Mówimy o tym, że codziennie jest odpowiedni czas na sumienne wykonanie obowiązków ale również na chwile beztroski i zabawy.  Występują: Król, najstarszy sługa – Ruben, średni sługa – Emanuel, najmłodszy sługa – Joachim oraz Wielbłąd  Czas trwania: ok. 40min.</string>
+    <string name="owieczka_description">Widzowie podczas tego spektaklu dowiadują się na czym polega praca pasterza, drwala oraz czym zajmuje się leśniczy. Tłumaczymy dzieciom, że jeśli zagubią się tak jak tytułowa owieczka to w role dobrych i kochających pasterzy wcielają się ich rodzice oraz wychowawcy. Jest to przedstawienie, które pomaga budować i umacnia autorytet nauczyciela. Najmłodsi widzowie uczą się wytrwałości – jeżeli osiągnięcie wyznaczonego celu nie udaje się od razu, to nie powinniśmy się poddawać, tylko wytrwale próbować. Tak jak dobry pasterz, który do samego końca wierzył, że odnajdzie swoją owieczkę.  Występują: Pasterz Dawid, Pasterz Wojtek, Drwal, Pustelnik, Miś oraz Owieczki  Czas trwania: ok. 40min.</string>
+    <string name="legenda_description">Jest to historia młodego chłopca imieniem Mikołaj, który nie mógł pogodzić się z tym, że jedni ludzi mają dosłownie wszystko, a inni nie mają niczego. Pewnego dnia postanowił to zmienić. Spektakl wzbogacony jest piękną scenografią oraz bardzo atrakcyjnymi strojami. Pełen zabawnych sytuacji wciąga małego widza w przedstawioną historię oraz daje poczucie, że każdy z nas może zostać świętym. Pragniemy podkreślić, że nasz spektakl przedstawia historię z życia prawdziwego Świętego, nie zaś jej zlaicyzowaną, amerykańską wersję.  Występują: Ojciec, sąsiad Jakub, Mikołaj, Lokaj, Stary Biskup  Czas trwania: ok. 40min.</string>
+    <string name="opowieść_wigilijna_description">Przedstawienie to jest adaptacją jednej z najsłynniejszych opowieści Karola Dickensa. Spektakl opowiada historię wujka Scrooge, który jest ponurym samotnikiem nielubiącym ludzi, a ponad wszystko kochającym swoje pieniądze. W noc wigilijną staje się niezwykła rzecz - wujaszka odwiedzają trzej specjalni goście, którzy pokazują mu co jest istotą świąt Bożego Narodzenia. Spektakl uświadamia małym widzom, że miłość i rodzina są bardzo ważne w życiu każdego człowieka. Doskonała gra aktorska, oryginalna oprawa muzyczna wraz z czteroplanową scenografią, pozostawiają u widzów niezapomniane wspomnienia.  Występują: Wujek Scrooge, Bratanek, Pierwszy Gość, Drugi Gość, Trzeci Gość  Czas trwania: ok. 40min.</string>
+    <string name="sw_mikołaj_description">W okresie Bożonarodzeniowym Teatr Eden oferuje - oprócz spektakli - spotkanie z samym Świętym Mikołajem! Nasz Świąteczny Gość nie przyjechał jednak z Ameryki, lecz jest najprawdziwszym Świętym Mikołajem Biskupem, który zasłynął swoją hojnością i dobrym sercem w bezinteresownym obdarowywaniu prezentami. Dzieci które odwiedzi Mikołaj współpracujący z naszym Teatrem będą mogły spokojnie z nim porozmawiać, zadać pytania i zrobić sobie zdjęcia. Warto wspomnieć o pomocniku Świętego - Aniołku, który z uśmiechem towarzyszy tak ważnemu Gościowi  Występują: Mikołaj, Aniołek Czas trwania: ok. 40min.</string>
+    <string name="office">Biuro/Księgowość</string>
+
+
+</resources>
